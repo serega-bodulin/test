@@ -1,11 +1,25 @@
 div{
-    color: chocolate;
-    font-size: 23px;
-    font-family: Tahoma;
+    color:darkcyan;
+}
+
+.hoho{
+    background-color: blueviolet;
+    font: 12px;
+}
+
+.hehe{
+    background-color: chartreuse;
 }
 
 .hohoho{
     font-weight: bold;
     transform: rotate(234deg);
     color:brown;
+}
+.azaza{
+    color: aqua;
+    width: 230px;
+    height: 440px;
+    font-size: 23px;
+    font-family: Tahoma;
 }
