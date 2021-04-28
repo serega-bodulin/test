@@ -3,3 +3,9 @@ div{
     font-size: 23px;
     font-family: Tahoma;
 }
+
+.hohoho{
+    font-weight: bold;
+    transform: rotate(234deg);
+    color:brown;
+}
